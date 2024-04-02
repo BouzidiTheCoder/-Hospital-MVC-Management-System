@@ -25,14 +25,14 @@
 ![Base de Données](https://github.com/BouzidiTheCoder/-Hospital-MVC-Management-System/assets/134173504/8a701629-e9a8-40d9-9ab8-a619828fd5c1)
 
 ### Avant la Pagination
-
+s
 ![Avant pagination](https://github.com/BouzidiTheCoder/-Hospital-MVC-Management-System/assets/134173504/25db59bd-7cf5-4f4b-8617-48a682ad203f)
 
 ### Après la Pagination
 
-![Apres pagination code](https://github.com/BouzidiTheCoder/-Hospital-MVC-Management-System/assets/134173504/0b57439d-fd43-44f7-b4c3-e5a99b7a78ee)
+![Apres pagination url](https://github.com/BouzidiTheCoder/-Hospital-MVC-Management-System/assets/134173504/4cf88573-66d0-4097-bf3f-590facd0f088)
 
-![apres pagination url](https://github.com/BouzidiTheCoder/-Hospital-MVC-Management-System/assets/134173504/4cf88573-66d0-4097-bf3f-590facd0f088)
+![Apres pagination code](https://github.com/BouzidiTheCoder/-Hospital-MVC-Management-System/assets/134173504/0b57439d-fd43-44f7-b4c3-e5a99b7a78ee)
 
 ![Apres pagination page](https://github.com/BouzidiTheCoder/-Hospital-MVC-Management-System/assets/134173504/51ed6b4a-1dad-480f-83ec-c2328947cf5d)
 
