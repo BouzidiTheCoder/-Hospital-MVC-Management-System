@@ -25,7 +25,7 @@
 ![Base de Données](https://github.com/BouzidiTheCoder/-Hospital-MVC-Management-System/assets/134173504/8a701629-e9a8-40d9-9ab8-a619828fd5c1)
 
 ### Avant la Pagination
-s
+
 ![Avant pagination](https://github.com/BouzidiTheCoder/-Hospital-MVC-Management-System/assets/134173504/25db59bd-7cf5-4f4b-8617-48a682ad203f)
 
 ### Après la Pagination
